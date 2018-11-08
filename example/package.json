@@ -1,7 +1,7 @@
 {
     "private": true,
     "name": "example",
-    "version": "0.3.6",
+    "version": "0.4.0",
     "dependencies": {
         "express": "^4.15.2",
         "monaco-editor-core": "^0.14.6",
