@@ -1,5 +1,5 @@
 {
-  "name": "typescript-language-server",
+  "name": "@mattlyons/typescript-language-server",
   "version": "0.3.6",
   "description": "Language Server Protocol (LSP) implementation for TypeScript using tsserver",
   "author": "TypeFox and others",
